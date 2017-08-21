@@ -16,7 +16,7 @@
 
 ### Projects
 
-* [PARD](www.openpard.org) - Programmable Architecture for Resourcing-on-Demand
+* PARD - Programmable Architecture for Resourcing-on-Demand
   + Verify the project idea by conducting surveys about OpenSPARC T1 as a trainee (2013.07 - 2013.08)
   + Implement QoS support before Xilinx Memory Controller as the graduation project (2014.02 - 2014.05)
   + Implement the MicroBlaze FPGA Prototype as a project member (2015.07 - 2016.06)
