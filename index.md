@@ -56,11 +56,11 @@
 
 ### Projects
 
-* [NEMU](https://github.com/ProjectN/nemu) - NJU EMUlator, an x86 Emulator for teaching purpose
+* [NEMU](https://github.com/NJU-ProjectN/nemu) - NJU EMUlator, an x86 Emulator for teaching purpose
   + I am the designer of NEMU. The first version was released in 2014.08.
   + Since 2014 Fall, NEMU has been used as the Programming Assigment in the course Introduction to Computer System, NJU.
 
-* [ProjectN](https://github.com/ProjectN) - Nanjing University Computer System Project Series, a computer Ecosystem for teaching purpose
+* [ProjectN](https://github.com/NJU-ProjectN) - Nanjing University Computer System Project Series, a computer Ecosystem for teaching purpose
   + This project is undergoing.
 
 ### Talks
