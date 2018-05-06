@@ -27,14 +27,16 @@
 
 ### Talks
 
-* Labeled RISC-V: A New Perspective on Software-Defined Architecture, 5th RISC-V Workshop, Shanghai, 2017.05
+* Performance Isolation for Multicore within Labeled RISC-V, 7th RISC-V Workshop, Milpitas, 2017.11 ([PDF](https://content.riscv.org/wp-content/uploads/2017/12/Tue1630-Labeled-RISC-V-Zihao-Yu.pdf))
+* Labeled RISC-V: A New Perspective on Software-Defined Architecture, CARRV (workshop in MICRO 2017), Boston, 2017.10 ([PDF](https://carrv.github.io/2017/slides/yu-labeled_riscv-carrv2017-slides.pdf))
+* Labeled RISC-V: A New Perspective on Software-Defined Architecture, 6th RISC-V Workshop, Shanghai, 2017.05 ([PDF](https://riscv.org/wp-content/uploads/2017/05/Tue0930am-Labeled-RISC-V-Yu.pdf))
 * PARD - A New Perspective on Software-Defined Architecture, ETCD (workshop in ASPLOS 2017), Xi'an, 2017.04
 * RISC-V Design towards Virtualization Supporting and QoS Guarantee in Cloud, OS2ATC 2016, Beijing, 2016.12
 * Garlic Cast - A Lightweight and Decentralized Anonymous Content Sharing Protocol, ICPADS 2016, Wuhan, 2016.12
 * A New Perspecive on Software-Defined Architecture: Computer as a Network, HotDC 2016, Beijing, 2016.09
 * PARD - a Programmable Architecture for Resourcing-on-Demand, ACA 2016, Weihai, 2016.08
 * Implementing Fully Hardware-Supported Virtualization via PARD (poster session), APSys 2016, Hong Kong, 2016.08
-* Computer as a Network Design, Implementation and Usage with Open-Sourced FPGA Platform, ISCA toturial, Korea, 2016.06
+* Computer as a Network Design, Implementation and Usage with Open-Sourced FPGA Platform, ISCA tutorial, Korea, 2016.06
 * ASPLOS - Computer System from the view of PARD, NJU, Nanjing, 2016.05
 
 ### Publications
@@ -45,6 +47,7 @@
 
 ### Experience
 
+* TA for practicum course of Computer Architecture and Organization, UCAS, 2018 Spring
 * TA for practicum part of Introduction to Computer System, NJU, 2017 Fall
 * TA for practicum course of Computer Architecture and Organization, UCAS, 2017 Spring
 * TA for practicum part of Introduction to Computer System, NJU, 2016 Fall
@@ -65,6 +68,7 @@
 
 ### Talks
 
+* The Design of ICS Programming Assignment, Nanjing, 2017.11
 * Introduction to ICS Programming Assignment, Nanjing, 2017.08
 * Introduction to ICS Programming Assignment, Weihai, 2016.08
 * Introduction to ICS Programming Assignment, Dalian, 2015.08
@@ -73,4 +77,8 @@
 
 ### Publications
 
-* [Guide for ICS Programming Assigment](https://nju-ics.gitbooks.io/ics2017-programming-assignment/content/)
+* [Guide for ICS Programming Assigment (2018 fall)](https://nju-ics.gitbooks.io/ics2018-programming-assignment/content/)
+* [Guide for ICS Programming Assigment (2017 fall)](https://nju-ics.gitbooks.io/ics2017-programming-assignment/content/)
+* [Guide for ICS Programming Assigment (2016 fall)](https://nju-ics.gitbooks.io/ics2016-programming-assignment/content/)
+* [Guide for ICS Programming Assigment (2015 fall)](https://nju-ics.gitbooks.io/ics2015-programming-assignment/content/)
+* Guide for ICS Programming Assigment (2014 fall, URL is lost)
