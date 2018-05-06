@@ -59,12 +59,24 @@
 
 ### Projects
 
-* [NEMU](https://github.com/NJU-ProjectN/nemu) - NJU EMUlator, an x86 Emulator for teaching purpose
-  + I am the designer of NEMU. The first version was released in 2014.08.
+* [NEMU](https://github.com/NJU-ProjectN/nemu) - NJU EMUlator, an x86 full system emulator for teaching purpose
+  + I am the invertor of NEMU. The first version was released in 2014.08.
   + Since 2014 Fall, NEMU has been used as the Programming Assigment in the course Introduction to Computer System, NJU.
+  + NEMU got the first prize (1 of 10 winners) in the computer teaching practice design contest in 2017.11. ([news](http://www.sfzx.pku.edu.cn/virexp/xwzxa/gzdt/20170905164802))
 
 * [ProjectN](https://github.com/NJU-ProjectN) - Nanjing University Computer System Project Series, a computer Ecosystem for teaching purpose
-  + This project is undergoing.
+  + ProjectN includes the following components
+    + Navy-apps - applications
+    + NCC - C compiler
+    + Newlib - C library (ported from the official version)
+    + Nanos - operating system
+    + Nexus-AM - abstract machine layer
+    + NEMU - full system emulator
+    + NPC - SoC
+    + NOOP - out-of-order processor
+  + I contributed most to the hardware design of the system stack, including NEMU, NPC and NOOP. [Yanyan Jiang](http://moon.nju.edu.cn/people/yyjiang/) contributed to the software design.
+  + We got the second place in the Loongson Cup computer design contest in 2017.09. ([news](https://cs.nju.edu.cn/53/02/c1654a217858/page.htm))
+    + I was a non-official coach of the NJU teams. :)
 
 ### Talks
 
