@@ -16,11 +16,14 @@
 
 ### Projects
 
+* ([LvNA](https://github.com/LvNA-system/labeled-RISC-V)) - Labeled von Neumann Architecture (subsequent project of PARD)
+  + ISCA 2018 tutorial ([website](http://sdc.ict.ac.cn/isca2018-tutorial/))
+
 * PARD - Programmable Architecture for Resourcing-on-Demand
-  + Verify the project idea by conducting surveys about OpenSPARC T1 as a trainee (2013.07 - 2013.08)
-  + Implement QoS support before Xilinx Memory Controller as the graduation project (2014.02 - 2014.05)
-  + Implement the MicroBlaze FPGA Prototype as a project member (2015.07 - 2016.06)
   + Explore more features for PARD and port the FPGA Prototype to RISC-V for tapeout as the project leader (2016.07 - current)
+  + Implement the MicroBlaze FPGA Prototype as a project member (2015.07 - 2016.06)
+  + Implement QoS support before Xilinx Memory Controller as the graduation project (2014.02 - 2014.05)
+  + Verify the project idea by conducting surveys about OpenSPARC T1 as a trainee (2013.07 - 2013.08)
 
 * Garlic Cast - A Lightweight and Decentralized Anonymous Content Sharing Protocol
   + Implement the simulator for Garlic Cast and collect data (2013.09 - 2013.10)
@@ -41,7 +44,8 @@
 
 ### Publications
 
-* Jiuyue Ma, Xiufeng Sui, Ninghui Sun, Yupeng Li, Zihao Yu, Bowen Huang, Tianni Xu, Zhicheng Yao, Yun Chen, Haibin Wang, Lixing Zhang, Yungang Bao, Supporting Differentiated Services in Computers via Programmable Architecture for Resourcing-on-Demand (PARD), in the 20th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2015.
+* Zihao Yu, Bowen Huang, Jiuyue Ma, Ninghui Sun, Yungang Bao, Labeled RISC-V: A New Perspective on Software-Defined Architecture, in the first workshop on computer architecture research with RISC-V (CARRV 2017) co-located with MICRO, 2017. ([PDF](https://carrv.github.io/2017/papers/yu-labeled_riscv-carrv2017.pdf))
+* Jiuyue Ma, Xiufeng Sui, Ninghui Sun, Yupeng Li, Zihao Yu, Bowen Huang, Tianni Xu, Zhicheng Yao, Yun Chen, Haibin Wang, Lixing Zhang, Yungang Bao, Supporting Differentiated Services in Computers via Programmable Architecture for Resourcing-on-Demand (PARD), in the 20th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2015. ([PDF](http://acs.ict.ac.cn/baoyg/downloads/asplos2015_pard.pdf))
 
 ## Teaching
 
@@ -62,7 +66,7 @@
 * [NEMU](https://github.com/NJU-ProjectN/nemu) - NJU EMUlator, an x86 full system emulator for teaching purpose
   + I am the invertor of NEMU. The first version was released in 2014.08.
   + Since 2014 Fall, NEMU has been used as the Programming Assigment in the course Introduction to Computer System, NJU.
-  + NEMU got the first prize (1 of 10 winners) in the computer teaching practice design contest in 2017.11. ([news](http://www.sfzx.pku.edu.cn/virexp/xwzxa/gzdt/20170905164802))
+  + NEMU got the first prize (10 winners) in the computer teaching practice design contest in 2017.11. ([news](http://www.sfzx.pku.edu.cn/virexp/xwzxa/gzdt/20170905164802))
 
 * [ProjectN](https://github.com/NJU-ProjectN) - Nanjing University Computer System Project Series, a computer Ecosystem for teaching purpose
   + ProjectN includes the following components
@@ -89,8 +93,13 @@
 
 ### Publications
 
-* [Guide for ICS Programming Assigment (2018 fall)](https://nju-ics.gitbooks.io/ics2018-programming-assignment/content/)
-* [Guide for ICS Programming Assigment (2017 fall)](https://nju-ics.gitbooks.io/ics2017-programming-assignment/content/)
-* [Guide for ICS Programming Assigment (2016 fall)](https://nju-ics.gitbooks.io/ics2016-programming-assignment/content/)
-* [Guide for ICS Programming Assigment (2015 fall)](https://nju-ics.gitbooks.io/ics2015-programming-assignment/content/)
-* Guide for ICS Programming Assigment (2014 fall, URL is lost)
+* Guide for ICS Programming Assigment
+  + [2018 fall](https://nju-ics.gitbooks.io/ics2018-programming-assignment/content/)
+  + [2017 fall](https://nju-ics.gitbooks.io/ics2017-programming-assignment/content/)
+  + [2016 fall](https://nju-ics.gitbooks.io/ics2016-programming-assignment/content/)
+  + [2015 fall](https://nju-ics.gitbooks.io/ics2015-programming-assignment/content/)
+  + 2014 fall (URL is lost)
+
+## Award
+
+* 2017 National Scholarship
