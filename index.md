@@ -3,9 +3,15 @@
 * yuzihao@ict.ac.cn
 * No.6 Kexueyuan South Road, Zhongguancun, Haidian District, Beijing, China
 
+Zihao Yu is a PhD candidate of Institute of Computing Technology, Chinese Academy of Sciences.
+He is supervised by Prof. Ninghui Sun and Prof. Yungang Bao.
+He received his B.S. degree in computer science from Nanjing University in 2014. 
+His research interests include computer architecture and operating systems.
+He is the leader of the Labeled von Neumann Architecture (LvNA) project.
+
 ## Education
 
-* University of Chinese Academy of Sciences (2014.09 - current)
+* University of Chinese Academy of Sciences / Institute of Computing Technology, Chinese Academy of Sciences (2014.09 - current)
   + Ph.D. Candidate in Computer System and Architecture
 
 * Nanjing University (2010.09 - 2014.06)
